@@ -149,6 +149,7 @@ if (st.button('Lời giải chi tiết:')):
 
         ax.set_xlabel('x1')
         ax.set_ylabel('x2')
+        ax.set_title('Feasible Region for the Linear Programming Problem')
         ax.legend()
         st.pyplot(fig)
 
