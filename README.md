@@ -16,6 +16,15 @@
 - Nếu optimize_direction là min thì giữ nguyên
 
 ## 2. Thuật toán đơn hình Danzitg
+Thuật toán đơn hình Bland để giải quyết bài toán QHTT khi:
+- Tồn tại ci < 0 trên hàm mục tiêu
+- Với mọi bi > 0 trên ràng buộc đẳng thức, bất đẳng thức
+
+Thuật toán
+- Chọn biến vào ra
++ Chọn biến vào: biến có hệ số âm nhất trên hàm mục tiêu
++ Chọn biến ra: 
+
 ...
 ## 3. Thuật toán đơn hình Bland
 Thuật toán đơn hình Bland để giải quyết bài toán QHTT khi:
