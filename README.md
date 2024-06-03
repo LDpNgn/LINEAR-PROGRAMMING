@@ -1,5 +1,7 @@
 # THUẬT TOÁN GIẢI QUYẾT BÀI TOÁN QUY HOẠCH TUYẾN TÍNH TỔNG QUÁT
 
+link demo: https://ov9knuqrey5ylfa757syjb.streamlit.app/
+
 ## 1. Xử lý đầu vào
 1.1 Về ràng buộc đẳng thức, bất đẳng thức --> chuyển về dạng chuẩn  
 - nếu <=: giữ nguyên  
